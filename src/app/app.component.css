@@ -1,6 +1,6 @@
-svg-icon.red {
-    fill: red;
-    stroke: red;
-    width: 90px;
-    float: left;
+.red, #icon-nav-close-big, #Assets, #Group-2 {
+    fill: red !important;
+    stroke: red !important;
+    width: 90px !important;
+    float: left !important;
 }
