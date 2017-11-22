@@ -1,6 +1,3 @@
-.red, #icon-nav-close-big, #Assets, #Group-2 {
-    fill: red !important;
-    stroke: red !important;
-    width: 90px !important;
-    float: left !important;
+::ng-deep #icon-nav-close-big {
+    stroke: red;
 }
